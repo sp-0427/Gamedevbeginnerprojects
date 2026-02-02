@@ -4,8 +4,8 @@ A simple 2D game made using Python and Pygame. Just a small game to pass your ti
 Catch apples from four different trees with the help of given instructions.
 
 ## Tech stack
--Python
--Pygame
+- Python
+- Pygame
 
 ## How to Run
 
