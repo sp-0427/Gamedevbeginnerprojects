@@ -1,4 +1,4 @@
-# Catch Apple 🍎
+# Apple Catch 🍎
 
 A simple 2D game made using Python and Pygame. Just a small game to pass your time and relax !
 Catch apples from four different trees with the help of given instructions.
